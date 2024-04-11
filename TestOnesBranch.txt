@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Test6
 =======
 Test4
 >>>>>>> parent of e08b24f (TestBranch4)
-=======
-Test5
->>>>>>> parent of 5d9eac7 (TestBranch5)
